@@ -8,6 +8,9 @@
 |------|------|
 | [vps-init-setup.md](./vps-init-setup.md) | VPS 初始化安全加固手册（SSH 密钥 / 禁用 root / 权限设置） |
 | [sre_internship_roadmap.md](./sre_internship_roadmap.md) | 运维实习准备路线图（4 个月学习计划） |
+| [phase1-linux-sysadmin.md](./phase1-linux-sysadmin.md) | 第一阶段：Linux 系统管理核心教程 |
+| [phase2-toolchain.md](./phase2-toolchain.md) | 第二阶段：工具链实战（Docker / CI-CD / 监控 / Nginx） |
+| [firewall-differences-notes.md](./firewall-differences-notes.md) | RedHat 系与 Debian 系防火墙运维笔记 |
 
 ## 🖥️ 实验环境
 
