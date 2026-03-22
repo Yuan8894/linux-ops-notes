@@ -18,7 +18,12 @@
 
 ## 1. Docker 进阶
 
-> 你已经有 Docker 基础（Nginx Proxy Manager / Uptime Kuma / Portainer / gh-proxy），本阶段重点是理解原理 + 手写配置。
+> Docker 部分已拆分为独立详细文档，请前往：**[phase2-docker.md](./phase2-docker.md)**
+>
+> 涵盖：底层原理（Namespace/Cgroup/UnionFS）/ 镜像构建与优化 / Dockerfile 深度解析 /
+> 网络模式 / 数据持久化 / Docker Compose 完整语法 / 安全实践 / 故障排查 / 面试题
+>
+> 以下为快速索引，详细内容见上方链接。
 
 ### 1.1 Docker 核心概念回顾
 
